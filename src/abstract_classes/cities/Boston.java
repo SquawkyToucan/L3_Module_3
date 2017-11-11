@@ -1,6 +1,6 @@
 package abstract_classes.cities;
 
-public class Boston extends City{
+public class Boston extends City {
 	int population;
 	double growthRate;
 	public Boston(int population, double growthRate) {
