@@ -29,3 +29,4 @@ public class TestCityTaxes {
 	}
 
 }
+//java.lang.AssertionError: expected:<945044.0> but was:<1472522.0>
